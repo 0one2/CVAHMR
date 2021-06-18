@@ -1,0 +1,1 @@
+python eval_coco.py --checkpoint /home/ubuntu/project/Swap_Hip_lr4_triple_wgan/checkpoints/2021_01_18-13_17_00.pt

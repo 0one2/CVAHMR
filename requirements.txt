@@ -1,0 +1,14 @@
+numpy
+opencv-python
+pyopengl
+pyrender
+scikit-image
+scipy==1.0.0
+tensorboard
+chumpy
+smplx
+torch==1.1.0
+torchgeometry
+torchvision
+tqdm
+trimesh
